@@ -74,7 +74,7 @@ This bot is intended for **educational purposes** and **fun use only**. It is no
 ### Step 6: Run the bot:
 
    ```bash
-   python bot.py
+   python Annihilatrix.py
    ```
 
 ---
