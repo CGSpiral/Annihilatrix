@@ -76,7 +76,7 @@ This bot is intended for **educational purposes** and **fun use only**. It is no
    ```bash
    python Annihilatrix.py
    ```
-
+##Make sure to add your custom ban reason on line 148 in the code
 ---
 
 ## Usage
